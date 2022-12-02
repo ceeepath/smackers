@@ -1,8 +1,6 @@
 Damon Salvatore
 Stephan Salvatore
 Caroline Forbes
-<<<<<<< HEAD
 Katarina Pierce
-=======
 Mason Lockwood
->>>>>>> dc82408dc004f6b879918cfc1035a24f53f390f5
+Mayor Lockwood
