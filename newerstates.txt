@@ -3,8 +3,5 @@ New Jersey
 New Mexico
 New York
 New Hampton
-<<<<<<< HEAD
 Mystic Falls
-=======
 New Orleans
->>>>>>> cee/demo
